@@ -5,7 +5,7 @@ import { unsplashImageAsset } from 'sanity-plugin-asset-source-unsplash'
 
 export default defineConfig({
   name: 'default',
-  title: 'HART Magazine',
+  title: 'Blog ASI',
 
   projectId: '57w3nm5b',
   dataset: 'production',
